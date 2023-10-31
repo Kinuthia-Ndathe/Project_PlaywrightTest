@@ -1,0 +1,5 @@
+C:\Users\v-alkinu\source\repos\Cucumber_PlaywrightTest\obj\Debug\net7.0\Cucumber_PlaywrightTest.csproj.AssemblyReference.cache
+C:\Users\v-alkinu\source\repos\Cucumber_PlaywrightTest\obj\Debug\net7.0\Cucumber_PlaywrightTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-alkinu\source\repos\Cucumber_PlaywrightTest\obj\Debug\net7.0\Cucumber_PlaywrightTest.AssemblyInfoInputs.cache
+C:\Users\v-alkinu\source\repos\Cucumber_PlaywrightTest\obj\Debug\net7.0\Cucumber_PlaywrightTest.AssemblyInfo.cs
+C:\Users\v-alkinu\source\repos\Cucumber_PlaywrightTest\obj\Debug\net7.0\Cucumber_PlaywrightTest.csproj.CoreCompileInputs.cache
